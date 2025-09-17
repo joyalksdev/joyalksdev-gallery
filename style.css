@@ -57,7 +57,8 @@ header h1:hover {
 
 footer{
     text-align: center;
+    font-size: 15px;
+    border-top: 1px solid #a4a4a4;
     padding: 12px;
-    color: #fff;
-    background-color: #171835;
+    color: #494949;
 }
